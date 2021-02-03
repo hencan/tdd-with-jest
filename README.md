@@ -1,4 +1,4 @@
-# TDD Playground
+# TDD Playground (with Jest)
 
 ## Como usar este boilerplate
 
